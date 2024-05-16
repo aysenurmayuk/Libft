@@ -1,4 +1,4 @@
-# Libft Project
+# Project
 
 The Libft project is an essential part of the curriculum at 42 schools, designed to help students build a strong foundation in C programming. In this project, students are tasked with creating their own library of standard C functions, which can then be used in future projects throughout the curriculum.
 
